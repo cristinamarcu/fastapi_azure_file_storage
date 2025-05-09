@@ -3,7 +3,7 @@
 ## Description
 
 FastApi Server receives requests and stores files in Azure Blob Storage.  
-Metadata about the files is storaed in Azure MySql Database.  
+Metadata about the files is stored in Azure MySql Database.  
 The files are encrypted and compressed before storage.  
 
 ## Testing
